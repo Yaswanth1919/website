@@ -23,6 +23,9 @@ h3{
 a{
 	color:#11999E;
 }
+a:hover{
+	color:#EAF6F6;
+}
 .bottom-cloud{
 	position:absolute;
 }
